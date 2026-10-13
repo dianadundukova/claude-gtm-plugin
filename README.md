@@ -57,9 +57,9 @@ Add as a submodule for easy updates:
 git submodule add https://github.com/manojbajaj95/claude-gtm-plugin.git .agents/claude-gtm-plugin
 ```
 
-### Recommended MCP Servers (Optional)
+### Optional MCP Servers
 
-Skills work without any MCP servers. To give Claude access to more tools, add these to Claude Code yourself:
+No skill requires an MCP server. These are optional add-ons for Claude Code:
 
 ```bash
 # MCP Market — discover and connect MCP servers

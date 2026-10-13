@@ -22,7 +22,7 @@ gtm-plugin/
 │   │   └── SKILL.md
 │   ├── linkedin-content/
 │   │   └── SKILL.md
-│   └── ... (56 skills total)
+│   └── ... (54 skills total)
 ├── scripts/                     # Build and validation scripts
 │   ├── bump-version.sh          # Bump semver across all manifests
 │   └── generate-skills-readme.sh # Regenerate ALL_SKILLS.md + README skills section
